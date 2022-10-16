@@ -1,1 +1,2 @@
 # Basys3-Calculator
+Calculator written in Verilog HDL as a university course project, capable of calculating sine, cosine, square root of any given integer value from 0 to 360. Also inclues prime number checking capabilities in the same range. The Basys3 display is utilized in a way to show every user input on the 7-segment displays. User input is done through the UART communication protocol. The values displayed on the 7-Segement-Displays are calculated with LUTs.
